@@ -44,7 +44,6 @@
 - [Exam 2](https://www.linkedin.com/learning/practice-exam-2-for-isc2-certified-cloud-security-professional-ccsp/about-the-practice-exam?u=42751868)
 - [Exam 3](https://www.linkedin.com/learning/practice-exam-3-for-isc2-certified-cloud-security-professional-ccsp/about-the-practice-exam?u=42751868)
 - [Exam 4](https://www.linkedin.com/learning/practice-exam-4-for-isc2-certified-cloud-security-professional-ccsp/about-the-practice-exam?u=42751868)
--
 
 ## My Notes
 -
