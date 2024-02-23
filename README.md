@@ -30,9 +30,8 @@
 
 ## Reading Materials
 ### Books
--
--
--
+- [The Official (ISC)2 CCSP CBK Reference 4th Edition](https://www.amazon.com/gp/product/1119909015/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
+- [(ISC)2 CCSP Certified Cloud Security Professional Official Study Guide (Sybex Study Guide) 3rd Edition](https://www.amazon.com/gp/product/1119909376/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1)
 
 ### NIST Resources
 -
