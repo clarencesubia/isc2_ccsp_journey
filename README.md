@@ -19,9 +19,7 @@
 - [Legal, Risk, and Compliance](https://www.linkedin.com/learning/ccsp-cert-prep-6-legal-risk-and-compliance-17457062/quantitative-risk-assessment?u=42751868)
 
 ### Oreilly
--
--
--
+- [CCSP by Michael J. Shannon](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
 
 ### Youtube
 -
@@ -44,6 +42,9 @@
 - [Exam 2](https://www.linkedin.com/learning/practice-exam-2-for-isc2-certified-cloud-security-professional-ccsp/about-the-practice-exam?u=42751868)
 - [Exam 3](https://www.linkedin.com/learning/practice-exam-3-for-isc2-certified-cloud-security-professional-ccsp/about-the-practice-exam?u=42751868)
 - [Exam 4](https://www.linkedin.com/learning/practice-exam-4-for-isc2-certified-cloud-security-professional-ccsp/about-the-practice-exam?u=42751868)
+
+### Pearson
+- [CCSP by Pearson](https://learning.oreilly.com/certifications/9780137931057/)
 
 ## My Notes
 -
