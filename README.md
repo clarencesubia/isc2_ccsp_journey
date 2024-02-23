@@ -10,7 +10,7 @@
 
 ## Training Resources
 ### Linkedin Learning
--
+- [Cloud Concepts, Architecture, and Design](https://www.linkedin.com/learning/ccsp-cert-prep-1-cloud-concepts-architecture-and-design-14683746/cloud-concepts?u=42751868)
 -
 -
 
