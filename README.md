@@ -1,6 +1,7 @@
 # ISC2 CCSP Journey
 ![CCSP Image](https://github.com/meliodaaf/isc2_ccsp_journey/blob/main/files/ccsp.png)
 ## CCSP Domains
+[CCSP Certification Website](https://www.isc2.org/certifications/ccsp)
 - Cloud Concepts, Architecture, and Design
 - Cloud Data Security
 - Cloud Platform and Infrastructure Secucity
