@@ -1,0 +1,3 @@
+- Feb. 24, 2024:
+  - Read CCSP CBK:
+  - Chapter 1: Cloud Concepts, Architecture, and Design
