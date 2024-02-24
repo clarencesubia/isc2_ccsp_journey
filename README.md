@@ -32,7 +32,7 @@
 - <a target="_blank" href="https://www.amazon.com/gp/product/1119909376/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&amp;psc=1&_encoding=UTF8&tag=clarencesubia-20&linkCode=ur2&linkId=860b89f6909f087076748f60a9305b48&camp=1789&creative=9325">ISC2 CCSP Certified Cloud Security Professional Official Study Guide</a>
 
 ### NIST Resources
--
+- [NIST SP 800-145](https://csrc.nist.gov/pubs/sp/800/145/final)
 -
 -
 
