@@ -33,7 +33,7 @@
 
 ### NIST Resources
 - [NIST SP 800-145](https://csrc.nist.gov/pubs/sp/800/145/final)
--
+- [NIST SP 500-292](https://www.nist.gov/publications/nist-cloud-computing-reference-architecture)
 -
 
 ## Practice Exams and Flashcards
