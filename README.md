@@ -31,10 +31,10 @@
 - <a target="_blank" href="https://www.amazon.com/gp/product/1119909015/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&amp;psc=1&_encoding=UTF8&tag=clarencesubia-20&linkCode=ur2&linkId=5de8dd897e0aaf8214fa5421bcc66561&camp=1789&creative=9325">The Official ISC2 CCSP CBK Reference 4th Edition</a>
 - <a target="_blank" href="https://www.amazon.com/gp/product/1119909376/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&amp;psc=1&_encoding=UTF8&tag=clarencesubia-20&linkCode=ur2&linkId=860b89f6909f087076748f60a9305b48&camp=1789&creative=9325">ISC2 CCSP Certified Cloud Security Professional Official Study Guide</a>
 
-### NIST Resources
+### Other Resources
 - [NIST SP 800-145](https://csrc.nist.gov/pubs/sp/800/145/final)
 - [NIST SP 500-292](https://www.nist.gov/publications/nist-cloud-computing-reference-architecture)
--
+- [CIS Top 18 Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
 
 ## Practice Exams and Flashcards
 ### Linkedin Learning
