@@ -22,9 +22,13 @@
 - [CCSP by Michael J. Shannon](https://learning.oreilly.com/course/certified-cloud-security/9780138170622/)
 
 ### Youtube
--
--
--
+- [CCSP Exam Cram - DOMAIN 1 (2023)](https://www.youtube.com/watch?v=bQSUsRCv19w&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=2)
+- [CCSP Exam Cram - DOMAIN 2 (2023)](https://www.youtube.com/watch?v=tK2LiepVC8E&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=3)
+- [CCSP Exam Cram - DOMAIN 3 (2023)](https://www.youtube.com/watch?v=tK2LiepVC8E&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=4)
+- [CCSP Exam Cram - DOMAIN 4 (2023)](https://www.youtube.com/watch?v=tK2LiepVC8E&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=5)
+- [CCSP Exam Cram - DOMAIN 5 (2023)](https://www.youtube.com/watch?v=tK2LiepVC8E&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=6)
+- [CCSP Exam Cram - DOMAIN 6 (2023)](https://www.youtube.com/watch?v=asuzaS0wpM8&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=7)
+
 
 ## Reading Materials
 ### Books
