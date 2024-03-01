@@ -52,9 +52,3 @@
 
 ### Flashcards
 - [CCSP ISO](https://quizlet.com/gb/706651378/ccsp-iso-flash-cards/?x=1jqU&i=1pa721)
-
-## My Notes
--
--
--
--
