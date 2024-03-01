@@ -50,6 +50,9 @@
 ### Pearson
 - [CCSP by Pearson](https://learning.oreilly.com/certifications/9780137931057/)
 
+### Flashcards
+- [Quizlet(]https://quizlet.com/gb/706651378/ccsp-iso-flash-cards/?x=1jqU&i=1pa721)
+
 ## My Notes
 -
 -
