@@ -52,3 +52,11 @@
 
 ### Flashcards
 - [CCSP ISO](https://quizlet.com/gb/706651378/ccsp-iso-flash-cards/?x=1jqU&i=1pa721)
+
+### ISC2 Free Flashcards
+- [Domain 1: Cloud Concepts, Architecture and Design](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-1)
+- [Domain 2: Cloud Data Security](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-2)
+- [Domain 3: Cloud Platform and Infrastructure Security](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-3)
+- [Domain 4: Cloud Application Security](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-4)
+- [Domain 5: Cloud Security Operations](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-5)
+- [Domain 6: Legal, Risk and Compliance](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-6)
