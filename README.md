@@ -36,9 +36,13 @@
 - <a target="_blank" href="https://www.amazon.com/gp/product/1119909376/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&amp;psc=1&_encoding=UTF8&tag=clarencesubia-20&linkCode=ur2&linkId=860b89f6909f087076748f60a9305b48&camp=1789&creative=9325">ISC2 CCSP Certified Cloud Security Professional Official Study Guide</a>
 
 ### Other Resources
+- [ISO 27001](https://www.iso.org/standard/27001)
+- [NIST 800-37](https://csrc.nist.gov/pubs/sp/800/37/r2/final)
+- [NIST 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 - [NIST SP 800-145](https://csrc.nist.gov/pubs/sp/800/145/final)
 - [NIST SP 500-292](https://www.nist.gov/publications/nist-cloud-computing-reference-architecture)
 - [CIS Top 18 Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
+- [CSA STAR](https://cloudsecurityalliance.org/star)
 
 ## Practice Exams and Flashcards
 ### Linkedin Learning
