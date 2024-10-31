@@ -4,7 +4,7 @@
 [CCSP Certification Website](https://www.isc2.org/certifications/ccsp)
 - Cloud Concepts, Architecture, and Design
 - Cloud Data Security
-- Cloud Platform and Infrastructure Secucity
+- Cloud Platform and Infrastructure Security
 - Cloud Application Security
 - Cloud Security Operations
 - Legal, Risk, and Compliance
