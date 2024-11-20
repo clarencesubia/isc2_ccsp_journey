@@ -32,8 +32,11 @@
 
 ## Reading Materials
 ### Books
+
 - <a target="_blank" href="https://www.amazon.com/gp/product/1119909015/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&amp;psc=1&_encoding=UTF8&tag=clarencesubia-20&linkCode=ur2&linkId=5de8dd897e0aaf8214fa5421bcc66561&camp=1789&creative=9325">The Official ISC2 CCSP CBK Reference 4th Edition</a>
 - <a target="_blank" href="https://www.amazon.com/gp/product/1119909376/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&amp;psc=1&_encoding=UTF8&tag=clarencesubia-20&linkCode=ur2&linkId=860b89f6909f087076748f60a9305b48&camp=1789&creative=9325">ISC2 CCSP Certified Cloud Security Professional Official Study Guide</a>
+
+Note: I only used books for targetted reading.
 
 ### Other Resources
 - [ISO 27001](https://www.iso.org/standard/27001)
@@ -43,6 +46,7 @@
 - [NIST SP 500-292](https://www.nist.gov/publications/nist-cloud-computing-reference-architecture)
 - [CIS Top 18 Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
 - [CSA STAR](https://cloudsecurityalliance.org/star)
+- [Uptime Institute Tiers](https://uptimeinstitute.com/tiers)
 
 ## Practice Exams and Flashcards
 ### Linkedin Learning
@@ -64,3 +68,6 @@
 - [Domain 4: Cloud Application Security](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-4)
 - [Domain 5: Cloud Security Operations](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-5)
 - [Domain 6: Legal, Risk and Compliance](https://www.isc2.org/certifications/ccsp/ccsp-self-study-resources/ccsp-flash-cards-6)
+
+### LearnZapp CCSP
+- https://isc2-learnzapp.web.app/
